@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: Project, Configuration: Debug Win32 ------
+1>  Assembling Sourcde.asm...
+1>Sourcde.obj : warning LNK4258: directive '/ENTRY:main@0' not compatible with switch '/ENTRY:main'; ignored
+1>  Project.vcxproj -> C:\Irvine\Examples\Project32\Debug\Project.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
